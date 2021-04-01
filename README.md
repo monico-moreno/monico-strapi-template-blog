@@ -1,5 +1,7 @@
 # Test by Monico
 
+This repo is based off the [strapi template blog](https://github.com/strapi/strapi-template-blog).
+
 # strapi-template-blog
 
 A Strapi template to create Strapi projects pre-configured for blog apps.
